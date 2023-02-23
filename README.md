@@ -28,7 +28,7 @@
     <a href = "https://www.linkedin.com/in/leandro-veloso-de-siqueira-143430128/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "">
       <img width="25" src="instagram.png">
     </a>
 </div>
