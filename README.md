@@ -1,5 +1,3 @@
-## Faaala dev / Hey there!
-
 <div>
   
   <img  height="180em" width="55%" src="https://github-readme-stats.vercel.app/api?username=leandrovsk&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
